@@ -8,3 +8,8 @@
 6. Linear Regression Model using caret
 7. Logistic Regression Model using caret
 
+## Contact Me
+reach out to me at ...
+
+## Image
+![Deadpool](https://static.wikia.nocookie.net/xmenmovies/images/9/94/Deadpool_Textless.jpg/revision/latest/scale-to-width-down/1000?cb=20200608174908)
